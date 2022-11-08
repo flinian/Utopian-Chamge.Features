@@ -1,4 +1,4 @@
-﻿Feature: Iniciar Sesion
+﻿Feature: Iniciar Sesion-HU09
 	Como usuario,
 	quiero iniciar sesión 
 	para poder usar la aplicacion
@@ -25,7 +25,7 @@ Scenario: El usuario reciclador no logra iniciar sesión con datos no válidos.
 	Examples: Ingreso de credenciales erroneos
 	| Usuario  |  | Contraseña |
 	| Pepito01 |  | 1234asjhaH |
-	| L@ura    |  | Asq@lr    |
+	| L@ura    |  | Asq@lr     |
 	| UtopianC |  | 22334905   | 
 
 
